@@ -25,4 +25,6 @@ public class ClasseB{
     public void MB2(){
         System.out.println("MB2");
     }
+
+    
 }
